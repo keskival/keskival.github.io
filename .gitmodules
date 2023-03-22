@@ -25,3 +25,6 @@
 [submodule "manifesto_for_free_movement"]
 	path = manifesto_for_free_movement
 	url = git@github.com:keskival/manifesto_for_free_movement.git
+[submodule "turbo-pascal-experiments"]
+	path = turbo-pascal-experiments
+	url = git@github.com:keskival/turbo-pascal-experiments.git
