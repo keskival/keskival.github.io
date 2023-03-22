@@ -1,0 +1,12 @@
+[submodule "costacoders.es"]
+	path = costacoders.es
+	url = git@github.com:keskival/costacoders.es.git
+[submodule "king-algorithm-manifesto"]
+	path = king-algorithm-manifesto
+	url = git@github.com:keskival/king-algorithm-manifesto.git
+[submodule "FAS-Simulator"]
+	path = FAS-Simulator
+	url = git@github.com:keskival/FAS-Simulator.git
+[submodule "embodied-emulated-personas"]
+	path = embodied-emulated-personas
+	url = git@github.com:keskival/embodied-emulated-personas.git
