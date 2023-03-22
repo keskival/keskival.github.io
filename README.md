@@ -9,6 +9,5 @@ See the up to date list from here: [https://github.com/keskival](https://github.
 - [Sleeping Machines](sleeping_machines)
 - [Manifesto for Free Movement](manifesto_for_free_movement)
 - [King Algorithm Manifesto](king-algorithm-manifesto)
-- [Sukupuu](sukupuu)
 - [CV](cv)
 - [Turbo Pascal Experiments](turbo-pascal-experiments)
