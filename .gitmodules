@@ -10,3 +10,18 @@
 [submodule "embodied-emulated-personas"]
 	path = embodied-emulated-personas
 	url = git@github.com:keskival/embodied-emulated-personas.git
+[submodule "sleeping_machines"]
+	path = sleeping_machines
+	url = git@github.com:keskival/sleeping_machines.git
+[submodule "cv"]
+	path = cv
+	url = git@github.com:keskival/cv.git
+[submodule "ai_enabled_transparency_of_governance_and_power"]
+	path = ai_enabled_transparency_of_governance_and_power
+	url = git@github.com:keskival/ai_enabled_transparency_of_governance_and_power.git
+[submodule "sukupuu"]
+	path = sukupuu
+	url = git@github.com:keskival/sukupuu.git
+[submodule "manifesto_for_free_movement"]
+	path = manifesto_for_free_movement
+	url = git@github.com:keskival/manifesto_for_free_movement.git
