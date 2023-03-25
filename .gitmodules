@@ -28,3 +28,6 @@
 [submodule "turbo-pascal-experiments"]
 	path = turbo-pascal-experiments
 	url = git@github.com:keskival/turbo-pascal-experiments.git
+[submodule "presentation-ai-and-large-language-model-chatbots-for-real-world-businesses"]
+	path = presentation-ai-and-large-language-model-chatbots-for-real-world-businesses
+	url = git@github.com:keskival/presentation-ai-and-large-language-model-chatbots-for-real-world-businesses.git

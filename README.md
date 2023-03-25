@@ -13,3 +13,5 @@ See the up to date list from here: [https://github.com/keskival](https://github.
 - [King Algorithm Manifesto](king-algorithm-manifesto)
 - [CV](cv)
 - [Turbo Pascal Experiments](turbo-pascal-experiments)
+- [Communist AI](https://cybercom-finland.github.io/hacking-great-3/t3-communist-ai/)
+- [Presentation: AI and Large Language Model Chatbots for Real-World Businesses](presentation-ai-and-large-language-model-chatbots-for-real-world-businesses/Tero_Keski-Valkama_LLM_Chatbots.pdf)
