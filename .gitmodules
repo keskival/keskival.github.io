@@ -31,3 +31,9 @@
 [submodule "presentation-ai-and-large-language-model-chatbots-for-real-world-businesses"]
 	path = presentation-ai-and-large-language-model-chatbots-for-real-world-businesses
 	url = git@github.com:keskival/presentation-ai-and-large-language-model-chatbots-for-real-world-businesses.git
+[submodule "recursive-self-improvement-suite"]
+	path = recursive-self-improvement-suite
+	url = git@github.com:keskival/recursive-self-improvement-suite.git
+[submodule "granadacoders.es"]
+	path = granadacoders.es
+	url = git@github.com:keskival/granadacoders.es.git

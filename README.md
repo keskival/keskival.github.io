@@ -4,7 +4,9 @@ This is the list of projects and repositories by Tero Keski-Valkama.
 
 See the up to date list from here: [https://github.com/keskival](https://github.com/keskival)
 
+- [Recursive Self-improvement Suite](recursive-self-improvement-suite)
 - [AI Enabled Transparency of Governance and Power](ai_enabled_transparency_of_governance_and_power)
+- [GranadaCoders.es](https://github.com/keskival/granadacoders.es)
 - [CostaCoders.es](https://github.com/keskival/costacoders.es)
 - [Embodied Emulated Personas](embodied-emulated-personas)
 - [FAS Simulator](FAS-Simulator)
